@@ -28,5 +28,12 @@ public class testCase3 {
 	
 
 }
+	@Test
+	public void mobile5()
+	{
+	System.out.println("This is Demo3");
+	
+
+}
 
 }
