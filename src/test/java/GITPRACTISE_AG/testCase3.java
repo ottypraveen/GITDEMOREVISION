@@ -11,5 +11,14 @@ public class testCase3 {
 	
 
 }
+	
+	
+	@Test
+	public void mobile2()
+	{
+	System.out.println("This is Demo2");
+	
+
+}
 
 }
