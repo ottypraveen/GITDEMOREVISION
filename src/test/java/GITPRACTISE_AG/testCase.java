@@ -18,5 +18,16 @@ public class testCase {
 		System.out.println("this is RestAPI Test Case3");
 	}
 	
+	@Test
+	public void getData4()
+	{
+		System.out.println("this is WebAutoation Test Case10");
+	}
+	@Test
+	public void getData5()
+	{
+		System.out.println("this is WebAutoation Test Case11");
+	}
+	
 
 }

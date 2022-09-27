@@ -24,4 +24,16 @@ public class testCase2 {
 		System.out.println("this is data Test Case4");
 
 }
+	
+	
+	@Test
+	public void getsampleData()
+	{
+		System.out.println("this is data Test Case5");
+		System.out.println("this is data Test Case7");
+		System.out.println("this is data Test Case7");
+
+		System.out.println("this is data Test Case8");
+
+}
 }
