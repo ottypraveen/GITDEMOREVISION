@@ -13,4 +13,14 @@ public class testCase2 {
 	
 
 }
+	
+	@Test
+	public void getData()
+	{
+		System.out.println("this is data Test Case");
+		System.out.println("this is data Test Case2");
+		System.out.println("this is data Test Case3");
+	
+
+}
 }
